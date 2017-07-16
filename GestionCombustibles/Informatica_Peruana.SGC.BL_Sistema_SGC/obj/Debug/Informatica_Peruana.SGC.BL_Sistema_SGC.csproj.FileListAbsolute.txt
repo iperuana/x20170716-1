@@ -1,0 +1,261 @@
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.csprojResolveAssemblyReference.cache
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\Informatica_Peruana.SGC.BL_Sistema_SGC\obj\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BBD88FD4-B65E-48FE-81B2-A1AA92C00758}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Informatica_Peruana.SGC.BE_Sistema_SGC</RootNamespace>
+    <AssemblyName>Informatica_Peruana.SGC.BE_Sistema_SGC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BE_Base.cs" />
+    <Compile Include="Mantenimiento\BE_clientes.cs" />
+    <Compile Include="Mantenimiento\BE_clientesPC.cs" />
+    <Compile Include="Mantenimiento\BE_Comprobante.cs" />
+    <Compile Include="Mantenimiento\BE_ComprobantePC.cs" />
+    <Compile Include="Mantenimiento\BE_Comprobante_Detalle.cs" />
+    <Compile Include="Mantenimiento\BE_Comprobante_DetallePC.cs" />
+    <Compile Include="Mantenimiento\BE_Departamento.cs" />
+    <Compile Include="Mantenimiento\BE_DepartamentoPC.cs" />
+    <Compile Include="Mantenimiento\BE_Empresa.cs" />
+    <Compile Include="Mantenimiento\BE_EmpresaPC.cs" />
+    <Compile Include="Mantenimiento\BE_empresa_calcimp.cs" />
+    <Compile Include="Mantenimiento\BE_empresa_calcimpPC.cs" />
+    <Compile Include="Mantenimiento\BE_Islas.cs" />
+    <Compile Include="Mantenimiento\BE_IslasPC.cs" />
+    <Compile Include="Mantenimiento\BE_Lados_Caras.cs" />
+    <Compile Include="Mantenimiento\BE_Lados_CarasPC.cs" />
+    <Compile Include="Mantenimiento\BE_Mangueras.cs" />
+    <Compile Include="Mantenimiento\BE_ManguerasPC.cs" />
+    <Compile Include="Mantenimiento\BE_Nivel.cs" />
+    <Compile Include="Mantenimiento\BE_NivelPC.cs" />
+    <Compile Include="Mantenimiento\BE_Nivel_Dcto_Clientes.cs" />
+    <Compile Include="Mantenimiento\BE_Nivel_Dcto_ClientesPC.cs" />
+    <Compile Include="Mantenimiento\BE_Distrito.cs" />
+    <Compile Include="Mantenimiento\BE_DistritoPC.cs" />
+    <Compile Include="Mantenimiento\BE_Documentos.cs" />
+    <Compile Include="Mantenimiento\BE_DocumentosPC.cs" />
+    <Compile Include="Mantenimiento\BE_Operador.cs" />
+    <Compile Include="Mantenimiento\BE_OperadorPC.cs" />
+    <Compile Include="Mantenimiento\BE_Operador_Usuario.cs" />
+    <Compile Include="Mantenimiento\BE_Operador_UsuarioPC.cs" />
+    <Compile Include="Mantenimiento\BE_Productos.cs" />
+    <Compile Include="Mantenimiento\BE_ProductosPC.cs" />
+    <Compile Include="Mantenimiento\BE_Provincia.cs" />
+    <Compile Include="Mantenimiento\BE_ProvinciaPC.cs" />
+    <Compile Include="Mantenimiento\BE_Surtidor.cs" />
+    <Compile Include="Mantenimiento\BE_SurtidorPC.cs" />
+    <Compile Include="Mantenimiento\BE_Tablas_Tipos.cs" />
+    <Compile Include="Mantenimiento\BE_Tablas_TiposPC.cs" />
+    <Compile Include="Mantenimiento\BE_Tipo_Cambio.cs" />
+    <Compile Include="Mantenimiento\BE_Tipo_CambioPC.cs" />
+    <Compile Include="Mantenimiento\BE_Tipo_Documento.cs" />
+    <Compile Include="Mantenimiento\BE_Tipo_DocumentoPC.cs" />
+    <Compile Include="Mantenimiento\BE_Tipo_Perfil.cs" />
+    <Compile Include="Mantenimiento\BE_Tipo_PerfilPC.cs" />
+    <Compile Include="Mantenimiento\BE_Turnos.cs" />
+    <Compile Include="Mantenimiento\BE_TurnosPC.cs" />
+    <Compile Include="Mantenimiento\BE_Usuarios.cs" />
+    <Compile Include="Mantenimiento\BE_UsuariosPC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

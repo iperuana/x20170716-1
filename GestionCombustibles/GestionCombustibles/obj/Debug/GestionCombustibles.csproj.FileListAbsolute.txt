@@ -1,0 +1,1248 @@
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+C:\Users\humberto\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SistemaFacturacion.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bradley Raul\Desktop\boleta grifo\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Developer\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.gv_Listar_Producto.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Jesus\Desktop\combustible\170602\170601\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Jesus\Desktop\combustible\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Bradley Raul\Desktop\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Clientes.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Producto.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubCliente.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubProducto.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+\\192.168.1.36\Practicas\COMBUSTIBLES\Nueva carpeta\170606\GestionCombustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Producto.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.SubProducto.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Producto.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.SubProducto.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+D:\Practicas\COMBUSTIBLES\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Producto.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.SubProducto.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Jesus\Desktop\informaticaperuana\combustible\170606\170609\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Producto.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.SubProducto.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Surtidores.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Jesus\Desktop\170612\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Producto.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.SubProducto.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.cambio_De_Clave_DeUsuario.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Correlativo_de_Documentos.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Empresa.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Producto.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.SubProducto.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Correlativo_de_Documentos.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Empresa.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Turnos.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Turnos.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.TCanbio.resources
+C:\Users\Bradley Raul\Desktop\170613\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Correlativo_Documentos.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_SubProducto.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+C:\Users\Usuario\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Clientes.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Correlativo_Documentos.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Lados_Caras.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_SubProducto.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Sub_Surtidores.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_SubCliente.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+C:\Users\Jesus\Desktop\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Cliente.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Documentos.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Lados_Caras.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Cliente.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Producto.resources
+C:\Users\Jesus\Desktop\copia de seguridad\170615\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Surtidores.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Cliente.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Documentos.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Login.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Cliente.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Producto.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Surtidores.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Login.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\FlashControlV71.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Cliente.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Documentos.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Login.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Cliente.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Producto.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Surtidores.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Usuario.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Login.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\Bradley Raul\Desktop\170620\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Usuario.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Cliente.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Documentos.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Login.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Cliente.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Producto.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Surtidores.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Usuario.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Usuario.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Login.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+C:\Users\Usuario\Desktop\170622\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Cliente.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Documentos.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Lados_Caras.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Login.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Cliente.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Producto.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Surtidores.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Usuario.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Usuario.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Login.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+C:\Users\BRAYAN\Desktop\GRIFO\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\PrinterUtility.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Sagitario.DLLFirmado.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Cliente.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Documentos.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Lados_Caras.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Login.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Cliente.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Producto.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Surtidores.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Usuario.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Usuario.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Login.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Ventas.Emision_de_Comprobante.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+D:\PROYECTOS\Combustibles\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe.config
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.exe
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\GestionCombustibles.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\PrinterUtility.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Sagitario.DLLFirmado.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BE_Sistema_SGC.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.BL_Sistema_SGC.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Informatica_Peruana.SGC.DA_Sistema_SGC.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csprojResolveAssemblyReference.cache
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_cambio_De_Clave_DeUsuario.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Cliente.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Documentos.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Empresa.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Islas.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Lados_Caras.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Login.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Cliente.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Islas.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Producto.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Surtidores.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Usuario.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Turnos.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Operadores_Usuarios.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.Productos.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Correlativo_de_Documentos.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Empresa.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Lados_Caras.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Operadores_Usuarios.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Sub_Turnos.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Usuario.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Login.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Archivo.frm_Surtidores.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Cobranza_de_Credito.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Cobranza.Sub_Cobranza_de_Credito.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Main.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Properties.Resources.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.reportes.rptComprobante.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Ventas.Emision_de_Comprobante.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Facturacion.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.SubNivelDcto.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.frm_TCambio.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.Ventas.VentasDiarias.resources
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.csproj.GenerateResource.Cache
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.exe
+D:\REPOSITORIOS\SRC\GestionCombustibles\GestionCombustibles\obj\Debug\GestionCombustibles.pdb

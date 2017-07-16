@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05D17B2E-A92A-4BE9-B7AA-B81F780EEC5E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Informatica_Peruana.SGC.DA_Sistema_SGC</RootNamespace>
+    <AssemblyName>Informatica_Peruana.SGC.DA_Sistema_SGC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\..\..\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\..\..\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\..\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\..\..\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Interception">
+      <HintPath>..\..\..\Microsoft.Practices.Unity.Interception.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DA_Base.cs" />
+    <Compile Include="DA_Conexion.cs" />
+    <Compile Include="Mantenimiento\DA.Productos.cs" />
+    <Compile Include="Mantenimiento\DA_Clientes.cs" />
+    <Compile Include="Mantenimiento\DA_Comprobante.cs" />
+    <Compile Include="Mantenimiento\DA_Comprobante_Detalle.cs" />
+    <Compile Include="Mantenimiento\DA_Departamento.cs" />
+    <Compile Include="Mantenimiento\DA_Distrito.cs" />
+    <Compile Include="Mantenimiento\DA_Documentos.cs" />
+    <Compile Include="Mantenimiento\DA_Empresa.cs" />
+    <Compile Include="Mantenimiento\DA_Empresa_CalcImp.cs" />
+    <Compile Include="Mantenimiento\DA_Islas.cs" />
+    <Compile Include="Mantenimiento\DA_Lados_Caras.cs" />
+    <Compile Include="Mantenimiento\DA_Mangueras.cs" />
+    <Compile Include="Mantenimiento\DA_Nivel.cs" />
+    <Compile Include="Mantenimiento\DA_Nivel_Dcto_Clientes.cs" />
+    <Compile Include="Mantenimiento\DA_Operador.cs" />
+    <Compile Include="Mantenimiento\DA_Operador_Usuario.cs" />
+    <Compile Include="Mantenimiento\DA_Provincia.cs" />
+    <Compile Include="Mantenimiento\DA_Surtidor.cs" />
+    <Compile Include="Mantenimiento\DA_Tablas_Tipo.cs" />
+    <Compile Include="Mantenimiento\DA_Tipo_Cambio.cs" />
+    <Compile Include="Mantenimiento\DA_Tipo_Documento.cs" />
+    <Compile Include="Mantenimiento\DA_Tipo_Perfil.cs" />
+    <Compile Include="Mantenimiento\DA_Turnos.cs" />
+    <Compile Include="Mantenimiento\DA_Usuarios.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Informatica_Peruana.SGC.BE_Sistema_SGC\Informatica_Peruana.SGC.BE_Sistema_SGC.csproj">
+      <Project>{bbd88fd4-b65e-48fe-81b2-a1aa92c00758}</Project>
+      <Name>Informatica_Peruana.SGC.BE_Sistema_SGC</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
